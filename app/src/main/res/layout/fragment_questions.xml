@@ -38,7 +38,6 @@
                 android:background="#ff6600"
                 android:textColor="#fff"
                 android:layout_margin="10dp"
-
                 android:elevation="5dp"
                 android:text="Want to Attempt again ?" />
         </LinearLayout>

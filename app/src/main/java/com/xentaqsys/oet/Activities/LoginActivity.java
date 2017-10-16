@@ -44,6 +44,7 @@ import org.json.JSONObject;
 
 import java.util.HashMap;
 import java.util.Map;
+
 import static com.xentaqsys.oet.app.AppController.TAG;
 
 import static com.xentaqsys.oet.Utils.Util.SERVICE_URL;
@@ -312,7 +313,6 @@ public class LoginActivity extends AppCompatActivity {
                 showLoginCard();
             }
         });
-
         textViewConfirmOTPRegister.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {   textViewRegisterClicked();
